@@ -1,0 +1,8 @@
+com\tecsup\app\micro\user_service\entity\UserEntity.class
+com\tecsup\app\micro\user_service\mapper\UserMapper.class
+com\tecsup\app\micro\user_service\repository\UserRepository.class
+com\tecsup\app\micro\user_service\dto\User.class
+com\tecsup\app\micro\user_service\service\UserService.class
+com\tecsup\app\micro\user_service\UserServiceApplication.class
+com\tecsup\app\micro\user_service\mapper\UserMapperImpl.class
+com\tecsup\app\micro\user_service\controller\UserController.class
